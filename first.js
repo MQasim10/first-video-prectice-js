@@ -1,4 +1,4 @@
-console.log("hello world!")
+console.log("hello world")
 console.log("my name is muhammd qasim")
 
 let a = 10
